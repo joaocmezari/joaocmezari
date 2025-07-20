@@ -132,11 +132,6 @@ Meu objetivo é me tornar um especialista em engenharia de software, aplicando m
 - 🛡️ Valorizo **segurança**, **desempenho** e **estética** em tudo que desenvolvo
 > _"Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."_ – Leonardo da Vinci
 
-
-![Pacman Comendo Commits](https://github.com/joaocmezari/joaocmezari/blob/main/assets/pacman.png)
-
----
-
 <h3 align="center">✨ Obrigado por visitar meu perfil! ✨</h3>
 
 <p align="center">
