@@ -126,8 +126,6 @@ Meu objetivo é me tornar um especialista em engenharia de software, aplicando m
 
 ### 💡 Curiosidades
 
-- 🤖 Já criei bots de Discord com integração de IA e comandos personalizados
-- 🌿 Gosto de trabalhar com **designs naturais**, minimalistas e com **glassmorphism**
 - 🧩 Curioso, persistente e movido por desafios técnicos
 - 🛡️ Valorizo **segurança**, **desempenho** e **estética** em tudo que desenvolvo
 > _"Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."_ – Leonardo da Vinci
