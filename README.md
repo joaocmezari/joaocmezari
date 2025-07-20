@@ -64,8 +64,8 @@ telefone: +55 43 98444-8393
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Vitorvzp&show_icons=true&theme=tokyonight&hide=prs&count_private=true" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorvzp&layout=compact&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=joaocmezari&show_icons=true&theme=tokyonight&hide=prs&count_private=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocmezari&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -95,7 +95,7 @@ telefone: +55 43 98444-8393
 ### 🔥 Atividade Recente
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vitorvzp&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaocmezari&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
