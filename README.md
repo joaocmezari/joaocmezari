@@ -1,13 +1,13 @@
 
 <h1 align="center">
-  👋 Olá, eu sou o <span style="color:#4CAF50">Vitor Emanuel</span>
+  👋 Olá, eu sou o <span style="color:#4CAF50">João Carlos</span>
 </h1>
 
 
 
 
 <h3 align="center">
-  🎓 Estudante | 💻 Programador Python | 📊 Cientista de Dados | 🧠 Fã de IA
+  🎓 Estudante | 💻 Programador Python | 📊 Engenheiro de Softaware | 🧠 Fã de IA
 </h3>
 
 <p align="center">
@@ -83,25 +83,11 @@ telefone: +55 43 98444-8393
 
 ---
 
-### 📁 Repositórios em Destaque
-
-| Projeto | Descrição |
-|--------|-----------|
-| [`Portifólio`](https://github.com/Vitorvzp/Port-folio) | Um portifólio com um chatbot AI com conhecimento profundo sobre mim.
-| [`Discord-Bot`](https://github.com/Vitorvzp/DiscordBot) | Um bot de discord com integração de API e IA, Criptografador e Descriptografador privado. |
-| [`Database-API`](https://github.com/Vitorvzp/API) | Uma API de um banco de dados criptografado com criptografia criada por mmim com 300 Mil Usuários  |
-| [`Gourmet-Menu`](https://github.com/Vitorvzp/Gourmet) | Um cardápio de um trabalho escolar |
-
-🔗 Veja todos os repositórios em [github.com/Vitorvzp](https://github.com/Vitorvzp)
-
----
-
 ### 📫 Entre em Contato
 
 <p align="center">
-  <a href="mailto:Vitorvzp722@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/Vitorvzp"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Vitorvzp"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:joaocmezari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/joaocmezari"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
