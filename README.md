@@ -26,7 +26,7 @@
 ```yaml
 nome: João Carlos de Souza Coelho Mezari
 idade: 18 anos
-localização: Apucarana, Paraná, Brasil 🇧🇷
+localização: Curitiba, Paraná, Brasil 🇧🇷
 email: joaocmezari@gmail.com
 telefone: +55 43 98444-8393
 ```
