@@ -120,7 +120,7 @@ Além disso, sou fã de automatizar tarefas repetitivas, integrar sistemas e exp
 
 ## 🚀 Objetivos
 
-Meu objetivo é me tornar um especialista em **inteligência artificial** e **ciência de dados**, aplicando meus conhecimentos para resolver problemas reais. Gosto de criar projetos práticos e aprender na prática!
+Meu objetivo é me tornar um especialista em engenharia de software, aplicando meus conhecimentos para resolver problemas reais. Gosto de criar projetos práticos e aprender na prática!
 
 ---
 
@@ -133,7 +133,7 @@ Meu objetivo é me tornar um especialista em **inteligência artificial** e **ci
 > _"Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."_ – Leonardo da Vinci
 
 
-![Pacman Comendo Commits](https://github.com/Vitorvzp/Vitorvzp/blob/main/assets/pacman.png)
+![Pacman Comendo Commits](https://github.com/joaocmezari/joaocmezari/blob/main/assets/pacman.png)
 
 ---
 
