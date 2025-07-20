@@ -31,18 +31,16 @@ email: joaocmezari@gmail.com
 telefone: +55 43 98444-8393
 ```
 
-- ✨ Estudo programação há mais de **7 anos**
+- ✨ Estudo programação desde fevereiro de 2025**
 - 💡 Estudando criação de bots, automações e sistemas visuais impactantes
 - 📊 Apaixonado por **dados**, inteligência artificial e soluções práticas
-- 🌐 Desenvolvo sites com **design moderno**, APIs REST e deploys com Docker
 - 💬 Sempre aprendendo algo novo: IA, Machine Learning e mais!
 
 ## 📘 Atualmente estudando
 
-- 🤖 **Machine Learning**  
-- 🧠 **Redes Neurais**  
+- 🤖 **Mysql**   
 - ⚙️ **Uso de IAs aplicadas**  
-- 🗃️ **PostgreSQL avançado**
+- 🗃️ **PHP**
 
 ---
 
@@ -71,14 +69,12 @@ telefone: +55 43 98444-8393
 
 ### 🧠 Conhecimentos Atuais
 
-- Python (Intermediário/Avançado)
-- Data Science com Pandas, Numpy
-- Banco de Dados (MySQL, SQLite, SQLModel)
+- Python (Intermediário)
+- Banco de Dados (MySQL)
 - Backend com Flask e APIs REST
 - Web Design com HTML5, CSS3 e JavaScript
-- Deploy com Docker e Render
 - Automação de Tarefas
-- Integração com Discord e WhatsApp
+- Integração WhatsApp
 
 ---
 
