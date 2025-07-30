@@ -7,7 +7,7 @@
 
 
 <h3 align="center">
-  🎓 Estudante | 💻 Programador Python | 📊 Engenheiro de Softaware | 🧠 Fã de IA
+  🎓 Estudante | 💻 Programador Python | 📊 Engenheiro de Software | 🧠 Fã de IA
 </h3>
 
 <p align="center">
@@ -95,34 +95,6 @@ telefone: +55 43 98444-8393
 
 ---
 
-### 🎬 Um pouco do meu estilo de programação
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
-</p>
-
-Sou um programador focado em escrever código limpo, organizado e eficiente. Acredito que a legibilidade é tão importante quanto a funcionalidade, por isso sigo boas práticas como:
-
-    Código modular: Divido as funcionalidades em funções e classes para facilitar manutenção e reuso.
-
-    Comentários claros: Sempre explico o “porquê” do código, não só o “como”.
-
-    Documentação: Crio documentação para projetos, APIs e scripts para garantir facilidade de uso e entendimento.
-
-    Testes e Debug: Valorizo testes automatizados e uso ferramentas de debug para garantir qualidade e confiabilidade.
-
-    Performance e segurança: Busco otimizar código sem perder a segurança, evitando vulnerabilidades e gargalos.
-
-    Estética do código: Uso formatação consistente e nomes descritivos para tornar o código mais amigável para mim e para a equipe.
-
-Além disso, sou fã de automatizar tarefas repetitivas, integrar sistemas e explorar novas tecnologias que possam trazer inovação e agilidade ao meu fluxo de trabalho.
-
-
-## 🚀 Objetivos
-
-Meu objetivo é me tornar um especialista em engenharia de software, aplicando meus conhecimentos para resolver problemas reais. Gosto de criar projetos práticos e aprender na prática!
-
----
 
 ### 💡 Curiosidades
 
